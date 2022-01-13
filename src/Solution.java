@@ -12,10 +12,6 @@ import static java.time.temporal.ChronoField.*;
 
 public class Solution {
 
-	// SORRY this is a skeleton FIRST NOT FAST APPROACH JUST FOR GETTING test RESULTS!!!!!!
-	// FURTHER IMPROVEMENTS MUST BE MADE!!!
-	// lack of time and exceptions... Sorrry
-
 	final DateTimeFormatter formatter =
 			new DateTimeFormatterBuilder()
 					.appendPattern("yyyy-MM-dd")
